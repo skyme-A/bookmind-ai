@@ -25,8 +25,11 @@ SECRET_KEY = 'django-insecure-ff9c@6a**qv2bv(jss2ppttdxnei&xe1(&#az2_1d%l7_isc%-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    "127.0.0.1",
+    "localhost",
+    "bookmind-ai.onrender.com"
+]
 
 # Application definition
 
