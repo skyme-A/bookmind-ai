@@ -85,7 +85,7 @@ python manage.py runserver
 
 ## Author
 
-Built by [Your Name]
+Built by [Aditi Raj]
 
 ---
 
